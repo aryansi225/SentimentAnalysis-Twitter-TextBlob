@@ -4,3 +4,11 @@ The code uses the tweepy library to access the Twitter API and the TextBlob libr
 # Dependencies
 1. tweepy
 2. textblob
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Implemented a sentiment analysis script which scrapes tweets using tweepy and sentiment analysis using textblob based by taking reference from tweepy and testblob documentation.
+
+Major Learnings => 
+Learnt how to use tweepy and textblob to do sentiment analysis.
